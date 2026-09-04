@@ -1,0 +1,6 @@
+name: DiamondBoost
+version: 1.0
+main: com.example.diamondboost.DiamondBoost
+api-version: 1.21
+author: AI
+description: Gives players effects when stepping on diamond blocks.
